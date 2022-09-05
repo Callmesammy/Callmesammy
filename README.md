@@ -27,8 +27,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Callmesammy"/>
 
-#
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Callmesammy&layout=compact"/>
 
 #
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Callmesammy"/>
