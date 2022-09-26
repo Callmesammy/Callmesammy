@@ -39,10 +39,6 @@
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-#
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/)
-
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-
 
 
  ![Snake animation](https://github.com/Callmesammy/Callmesammy/blob/output/github-contribution-grid-snake.svg)
