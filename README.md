@@ -13,11 +13,11 @@
 # 👂 My name is Samson Moses Imoh 
 
 * 🔭 I’m currently working on Java Socket
-* 🌱 I’m currently learning MySql
+* 🌱 I’m currently learning Java Spring Boot
 * 🤝 I’m looking to collaborate on any open ideas 
 * 💬 Ask me anything about Java
 * 📫 How to reach me: callmesammy@yahoo.com
-* ❤️ I love to learn new things 
+* ❤️ I love to learning new things 
 * #
 <details>
     <summary><b>✨About Me </b></summary><br/>
