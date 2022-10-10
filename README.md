@@ -10,9 +10,8 @@
 </div>
 
 # Hi there 👋
-# 👂 My name is Samson Moses Imoh 
 
-* 🔭 I’m currently working on Java Socket
+
 * 🌱 I’m currently learning Java Spring Boot
 * 🤝 I’m looking to collaborate on any open ideas 
 * 💬 Ask me anything about Java
