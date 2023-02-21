@@ -1,4 +1,4 @@
-**Developer JAVA | Springboot | MySql | Navicat
+JAVA | Springboot | MySql | Navicat | Jasper | Linux
 ## ⚙️ &nbsp;GitHub Analytics  
 
 <div align="center">
