@@ -16,5 +16,4 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
- ![Snake animation](https://github.com/Callmesammy/Callmesammy/blob/output/github-contribution-grid-snake.svg)
 
