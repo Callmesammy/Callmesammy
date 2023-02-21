@@ -9,10 +9,6 @@
 
 
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=Callmesammy&show_icons=true&theme=dark"/>
-
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
