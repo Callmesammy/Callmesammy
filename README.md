@@ -1,4 +1,4 @@
-JAVA | Springboot | MySql | Navicat | Jasper | Linux
+JAVA | Springboot | MySql | React
 ## ⚙️ &nbsp;GitHub Analytics  
 
 <div align="center">
