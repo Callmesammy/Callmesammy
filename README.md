@@ -108,8 +108,6 @@ I'm always interested in connecting with developers, engineers, founders and org
 
 **LinkedIn:** [Samson Moses]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/samson-moses-0a8025145/))
 
-**GitHub:** [@YOUR_GITHUB_USERNAME](https://github.com/Callmesammy)
-
 
 ---
 
