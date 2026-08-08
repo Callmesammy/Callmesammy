@@ -106,11 +106,10 @@ End-to-end applications built with modern frontend frameworks and robust backend
 
 I'm always interested in connecting with developers, engineers, founders and organizations working on interesting technology.
 
-**LinkedIn:** [Samson Moses](YOUR_LINKEDIN_URL)
+**LinkedIn:** [Samson Moses]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/samson-moses-0a8025145/))
 
-**GitHub:** [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+**GitHub:** [@YOUR_GITHUB_USERNAME](https://github.com/Callmesammy)
 
-**SUNRACO GLOBAL RESOURCES:** [Learn more about SUNRACO](YOUR_COMPANY_LINK)
 
 ---
 
