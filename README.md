@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samson Moses
 
-### Lead Systems Engineer | Full-Stack .NET Engineer | Software Architect
+### Lead Systems Engineer (Sunraco Global Resources) | Full-Stack .NET Engineer | Software Architect
 
 I’m a software engineer focused on designing and building reliable, scalable applications and business systems.
 
